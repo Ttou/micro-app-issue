@@ -1,0 +1,11 @@
+{
+  "vue.server.hybridMode": false,
+  "cSpell.words": [
+    "commitlint",
+    "preinstall",
+    "rsbuild",
+    "stylelint",
+    "unplugin",
+    "vite"
+  ]
+}
